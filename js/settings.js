@@ -1,4 +1,4 @@
-var MAPBOX_TOKEN = 'pk.eyJ1IjoiZGNoYXJ2ZXkiLCJhIjoiY2s5N3Zjc3ZxMGYwazNlbm9ubzA1d3Q1dCJ9.szxUl4AKCdUNLlmvham6og'
+var MAPBOX_TOKEN = 'pk.eyJ1IjoibWR1bmZleSIsImEiOiJja2YwNThsY3AwanhjMnlta25qM2lnNWdwIn0.AWN5kY4UNT63-idl38M0YQ'
 var MAPBOX_STYLE = 'mapbox://styles/dcharvey/ck90r78ib0hnp1jnz9bwleg7h'
 var SIDEWALKS_TILESET = 'mapbox://dcharvey.1typxzdb'
 var SIDEWALKS_LAYER = 'sidewalkwidths_nyc-87ugfr'
